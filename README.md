@@ -90,7 +90,7 @@ Returns
         ]
       }
 ```
-Using the web tool this can be visualize as
+Using the web tool this can be visualized as
 
 ![
 ](https://blogger.googleusercontent.com/img/a/AVvXsEifgKYZNw96LBE23n2ie5af64Tq0Y0A5W65QjFrs14UEqXyT6exPeMbMlUWHMPCuQNAqFERxLmd1jWhAh7Acy5FJr3Y8DcJCGkeSiza1eQUVxC6eTZ0rz8_eOzGoX74sAQYCRWAdjaf9P0nChhl9sHVxDfZluBKaQfai0DQD0eG9rFGfqaBviBZGpPl4g=w537-h483)
