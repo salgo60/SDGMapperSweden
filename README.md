@@ -1,8 +1,94 @@
 # SDGMapperSweden
 
-Test to see if we can use [SDGmapper](https://knowsdgs.jrc.ec.europa.eu/sdgmapper#learn) on Swedish documents using the [API](https://github.com/salgo60/SDGMapperSweden/issues/1)
+Test to see if we can use [SDGmapper](https://knowsdgs.jrc.ec.europa.eu/sdgmapper) on Swedish Parliament documents to "classify" documents according to [SDG](https://www.undp.org/sustainable-development-goals)
 
+## Test API
+* [Notebook test](https://github.com/salgo60/SDGMapperSweden/blob/main/Notebook/Swedish%20PM%20document%20SFS.ipynb)
 
+Document:  http://data.riksdagen.se/dokument/sfs-2021-1106.json
+
+Returns 
+```
+{'data': 
+    ['{
+      "name": "sdgs", 
+      "children": 
+        [
+          {
+             "name": "SDG 1", 
+             "n_occurrences": 2, 
+             "children": 
+                [
+                  {
+                    "n_occurrences": 1, 
+                    "name": "Target 1.3"},
+                  {
+                     "n_occurrences": 1, 
+                     "name": "Target 1.4"}
+                 ] }, 
+           {
+             "name": "SDG 4", 
+             "n_occurrences": 3, 
+             "children": 
+                [
+                  {
+                    "n_occurrences": 1, 
+                     "name": "Target 4.b"}, 
+                  {
+                    "n_occurrences": 2, 
+                    "name": "SDG 4_undetected_target"}
+                    ]}, 
+            {
+              "name": "SDG 9", 
+              "n_occurrences": 1, 
+              "children": 
+                [
+                  {
+                    "n_occurrences": 1, 
+                    "name": "Target 9.5"}
+                 ]}, 
+            {
+              "name": "SDG 10", 
+              "n_occurrences": 1, 
+              "children": 
+                [
+                  {
+                    "n_occurrences": 1, 
+                    "name": "Target 10.1"}
+                   ]}, 
+            {
+              "name": "SDG 15", 
+              "n_occurrences": 2, 
+              "children": 
+                [
+                  {
+                    "n_occurrences": 2, 
+                    "name": "Target 15.2"}
+                    ]}, 
+            {
+              "name": "SDG 16", 
+              "n_occurrences": 1, 
+              "children": 
+                [
+                  {
+                    "n_occurrences": 1, 
+                    "name": "Target 16.10"}
+                    ]}, 
+             {
+              "name": "SDG 17", 
+              "n_occurrences": 2, 
+              "children": 
+                [
+                  {
+                    "n_occurrences": 2, 
+                    "name": "Target 17.1"}
+                    ]}
+           ], 
+           "api version": "v1"}'
+        ]
+      }
+```
+## Test web tool
 Small tests done with the web interface
 * document "[SOU 2022:33 Om prövning och omprövning – en del av den gröna omställningen](https://data.riksdagen.se/fil/9E651472-8B12-44BF-9E28-0579589E3DD8) 2022-06-14"
 <img src=https://community.dataportal.se/assets/uploads/files/1655298199431-5099930a-70a3-4b41-8206-dc492dd76830-image.png width=500>
