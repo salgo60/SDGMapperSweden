@@ -1,6 +1,6 @@
 # SDGMapperSweden
 
-Test to see if we can use SDGmapper on Swedish documents using the [API](https://github.com/salgo60/SDGMapperSweden/issues/1)
+Test to see if we can use [SDGmapper](https://knowsdgs.jrc.ec.europa.eu/sdgmapper#learn) on Swedish documents using the [API](https://github.com/salgo60/SDGMapperSweden/issues/1)
 
 
 Small tests done with the web interface
