@@ -95,6 +95,9 @@ Using the web tool this can be visualized as
 ![
 ](https://blogger.googleusercontent.com/img/a/AVvXsEifgKYZNw96LBE23n2ie5af64Tq0Y0A5W65QjFrs14UEqXyT6exPeMbMlUWHMPCuQNAqFERxLmd1jWhAh7Acy5FJr3Y8DcJCGkeSiza1eQUVxC6eTZ0rz8_eOzGoX74sAQYCRWAdjaf9P0nChhl9sHVxDfZluBKaQfai0DQD0eG9rFGfqaBviBZGpPl4g=w537-h483)
 
+![
+](https://blogger.googleusercontent.com/img/a/AVvXsEgL2rhYGoZVF3W4Rng-S36FZ-8IPLWwP_J5hanCEKYjOz9rJrBVrDajfQw2jx4CFEMzhEZly2uR0k_5yVLnPjyrCZTAMUSs-R1_cRQVQWgOQeVYV5BLZWvqkdRq0w06ir3vFRrqqTJExKt2pdrz1T_cIvQuJSlat1RGxL25MmsfiWf0PwDeyFsa_uLNzg=w611-h327)
+
 ## Test web tool
 Small tests done with the web interface
 * document "[SOU 2022:33 Om prövning och omprövning – en del av den gröna omställningen](https://data.riksdagen.se/fil/9E651472-8B12-44BF-9E28-0579589E3DD8) 2022-06-14"
