@@ -3,7 +3,9 @@
 Test to see if we can use [SDGmapper](https://knowsdgs.jrc.ec.europa.eu/sdgmapper) on Swedish Parliament documents to "classify" documents according to [SDG](https://www.undp.org/sustainable-development-goals)
 
 ## Test API
-* [Notebook test](https://github.com/salgo60/SDGMapperSweden/blob/main/Notebook/Swedish%20PM%20document%20SFS.ipynb)
+* [Notebook test SFS](https://github.com/salgo60/SDGMapperSweden/blob/main/Notebook/Swedish%20PM%20document%20SFS.ipynb)
+* [Notebook test SOU](https://github.com/salgo60/SDGMapperSweden/blob/main/Notebook/SDGMapper%20Swedish%20PM%20document%20SOU.ipynb)
+
 
 Document:  http://data.riksdagen.se/dokument/sfs-2021-1106.json
 
