@@ -8,6 +8,8 @@ Test to see if we can use [SDGmapper](https://knowsdgs.jrc.ec.europa.eu/sdgmappe
   * looks we have a config problem see [#4](https://github.com/salgo60/SDGMapperSweden/issues/4)
 
 Document:  http://data.riksdagen.se/dokument/sfs-2021-1106.json
+* [Lag (2021:1106) om skatteavtal mellan Sverige och Slovenien](https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2021-1106)
+
 
 Returns 
 ```
