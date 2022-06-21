@@ -100,6 +100,9 @@ Using the web tool this can be visualized as
 ![
 ](https://blogger.googleusercontent.com/img/a/AVvXsEgL2rhYGoZVF3W4Rng-S36FZ-8IPLWwP_J5hanCEKYjOz9rJrBVrDajfQw2jx4CFEMzhEZly2uR0k_5yVLnPjyrCZTAMUSs-R1_cRQVQWgOQeVYV5BLZWvqkdRq0w06ir3vFRrqqTJExKt2pdrz1T_cIvQuJSlat1RGxL25MmsfiWf0PwDeyFsa_uLNzg=w611-h327)
 
+
+![](https://github.com/salgo60/SDGMapperSweden/blob/main/img/sdg-indicators-table_lag1.png?raw=true)
+
 ## Test web tool
 Small tests done with the web interface
 * document "[SOU 2022:33 Om prövning och omprövning – en del av den gröna omställningen](https://data.riksdagen.se/fil/9E651472-8B12-44BF-9E28-0579589E3DD8) 2022-06-14"
