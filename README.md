@@ -3,9 +3,13 @@
 Test to see if we can use [SDGmapper](https://knowsdgs.jrc.ec.europa.eu/sdgmapper) on Swedish Parliament documents to "classify" documents according to [SDG](https://www.undp.org/sustainable-development-goals)
 
 ## Test API
-* [Notebook test](https://github.com/salgo60/SDGMapperSweden/blob/main/Notebook/Swedish%20PM%20document%20SFS.ipynb)
+* [Notebook test SFS](https://github.com/salgo60/SDGMapperSweden/blob/main/Notebook/Swedish%20PM%20document%20SFS.ipynb)
+* [Notebook test SOU](https://github.com/salgo60/SDGMapperSweden/blob/main/Notebook/SDGMapper%20Swedish%20PM%20document%20SOU.ipynb)
+  * looks we have a config problem see [#4](https://github.com/salgo60/SDGMapperSweden/issues/4)
 
 Document:  http://data.riksdagen.se/dokument/sfs-2021-1106.json
+* [Lag (2021:1106) om skatteavtal mellan Sverige och Slovenien](https://www.riksdagen.se/sv/dokument-lagar/dokument/_sfs-2021-1106)
+
 
 Returns 
 ```
@@ -88,6 +92,14 @@ Returns
         ]
       }
 ```
+Using the web tool this can be visualized as
+
+![
+](https://blogger.googleusercontent.com/img/a/AVvXsEifgKYZNw96LBE23n2ie5af64Tq0Y0A5W65QjFrs14UEqXyT6exPeMbMlUWHMPCuQNAqFERxLmd1jWhAh7Acy5FJr3Y8DcJCGkeSiza1eQUVxC6eTZ0rz8_eOzGoX74sAQYCRWAdjaf9P0nChhl9sHVxDfZluBKaQfai0DQD0eG9rFGfqaBviBZGpPl4g=w537-h483)
+
+![
+](https://blogger.googleusercontent.com/img/a/AVvXsEgL2rhYGoZVF3W4Rng-S36FZ-8IPLWwP_J5hanCEKYjOz9rJrBVrDajfQw2jx4CFEMzhEZly2uR0k_5yVLnPjyrCZTAMUSs-R1_cRQVQWgOQeVYV5BLZWvqkdRq0w06ir3vFRrqqTJExKt2pdrz1T_cIvQuJSlat1RGxL25MmsfiWf0PwDeyFsa_uLNzg=w611-h327)
+
 ## Test web tool
 Small tests done with the web interface
 * document "[SOU 2022:33 Om prövning och omprövning – en del av den gröna omställningen](https://data.riksdagen.se/fil/9E651472-8B12-44BF-9E28-0579589E3DD8) 2022-06-14"
