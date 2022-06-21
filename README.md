@@ -1,6 +1,6 @@
 # SDGMapperSweden
 
-Test to see if we can use [SDGmapper](https://knowsdgs.jrc.ec.europa.eu/sdgmapper) on Swedish Parliament documents to "classify" documents according to [SDG](https://www.undp.org/sustainable-development-goals)
+Test to see if we can use [SDGmapper](https://knowsdgs.jrc.ec.europa.eu/sdgmapper) on Swedish Parliament documents to "classify" documents according to [SDG](https://www.undp.org/sustainable-development-goals) see also  [#5 if the Swedish PM can use it and classify documents produced regarding to SDG](https://github.com/salgo60/SDGMapperSweden/issues/5)
 
 ## Test API
 * [Notebook test SFS](https://github.com/salgo60/SDGMapperSweden/blob/main/Notebook/Swedish%20PM%20document%20SFS.ipynb)
