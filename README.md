@@ -100,6 +100,9 @@ Using the web tool this can be visualized as
 ![
 ](https://blogger.googleusercontent.com/img/a/AVvXsEgL2rhYGoZVF3W4Rng-S36FZ-8IPLWwP_J5hanCEKYjOz9rJrBVrDajfQw2jx4CFEMzhEZly2uR0k_5yVLnPjyrCZTAMUSs-R1_cRQVQWgOQeVYV5BLZWvqkdRq0w06ir3vFRrqqTJExKt2pdrz1T_cIvQuJSlat1RGxL25MmsfiWf0PwDeyFsa_uLNzg=w611-h327)
 
+
+![](https://github.com/salgo60/SDGMapperSweden/blob/main/img/sdg-indicators-table_lag1.png?raw=true)
+
 ## Test web tool
 Small tests done with the web interface
 * document "[SOU 2022:33 Om prövning och omprövning – en del av den gröna omställningen](https://data.riksdagen.se/fil/9E651472-8B12-44BF-9E28-0579589E3DD8) 2022-06-14"
@@ -109,3 +112,5 @@ Small tests done with the web interface
 
 * document "[Vår demokrati - värd att värna varje dag - Statens offentliga utredningar 2022:28](https://data.riksdagen.se/fil/8A0EDDF0-A1CF-4A63-91AA-99E06B41DE13)"
 <img src="https://community.dataportal.se/assets/uploads/files/1655298787306-00850587-0fbe-4367-b819-f1e12aea6400-image-resized.png" width=500>
+
+<img src="https://github.com/salgo60/SDGMapperSweden/blob/main/img/sdg-indicators-table_dem1.png?raw=true" width=500/>
