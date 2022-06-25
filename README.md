@@ -1,6 +1,11 @@
-# SDGMapperSweden
+# SDGMapper Sweden
 
 Test to see if we can use [SDGmapper](https://knowsdgs.jrc.ec.europa.eu/sdgmapper) on Swedish Parliament documents to "classify" documents according to [SDG](https://www.undp.org/sustainable-development-goals) see also  [#5 if the Swedish PM can use it and classify documents produced regarding to SDG](https://github.com/salgo60/SDGMapperSweden/issues/5)
+
+Result of this POC
+* there is a document size problem [#4](https://github.com/salgo60/SDGMapperSweden/issues/4)
+* the API dont use Linked data [#6](https://github.com/salgo60/SDGMapperSweden/issues/6#issuecomment-1163200515) and right now its not planned
+* Quality of mapping needs to be investigated, looks like [english is preffered language](https://github.com/salgo60/SDGMapperSweden/issues/6#issuecomment-1163200515)
 
 ## Test API
 * [Notebook test SFS](https://github.com/salgo60/SDGMapperSweden/blob/main/Notebook/Swedish%20PM%20document%20SFS.ipynb)
